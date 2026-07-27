@@ -15,7 +15,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 15 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning, PHP, React native. 
+  - 💬 I am 18 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning, PHP, React native. 
 
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
